@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: #006600;
+}
+
+.request {
+  text-decoration: underline;
+  color: blue;
+}
+
+.para-Name {
+  text-align: center;
+  background-color: #fecffd;
+  color: #ff3399;
+}
+
+.paragraph {
+  background-color: #ffffcc;
+}
+.kho {
+  text-align: center;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 24px;
+}
+.kho-1 {
+  color: #0000ff;
+}
+
+.kho-2 {
+    color: rgb(160, 99, 20);
+}
+
+.kho-3 {
+    color: #006600;
+}
+
+hr {
+  width: 220px;
+  margin: 10px auto;
+  border: none;
+  height: 1.5px;
+  background-color: rgb(66, 65, 65);
+  border-radius: 10px;
+}

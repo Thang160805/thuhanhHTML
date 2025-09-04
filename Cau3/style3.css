@@ -1,0 +1,20 @@
+body {
+  min-height: 100vh;
+  background: url("https://i.pinimg.com/1200x/7a/76/1d/7a761d0c69df3858fceff11ef8708f48.jpg")
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.intro {
+    background-color: #339999;
+    color: #fff;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 22px;
+}
+
+.info {
+    color: #eeeee8;;
+}
