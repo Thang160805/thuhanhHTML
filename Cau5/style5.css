@@ -1,0 +1,46 @@
+body {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  color: orange;
+  font-size: 24px;
+  border: 2px solid orange;
+  text-align: center;
+  padding: 10px;
+}
+
+.big-red {
+  color: darkred;
+  font-size: 48px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: bottom;
+  line-height: 1;
+  margin-right: 5px;
+}
+
+.highlight {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.bar {
+    background-color: orange;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: right;
+}
+
+em {
+    color: red;
+    font-weight: 600;
+}
+
+.yellow {
+    background-color: yellow;
+    font-style: italic;
+}

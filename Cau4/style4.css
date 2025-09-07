@@ -1,0 +1,32 @@
+body {
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+b {
+    text-decoration: underline;
+}
+
+span {
+    color: #FF0000;
+}
+
+div {
+    text-align: left;
+    padding-left: 130px;
+    background-color: #CCCCCC;
+    color: #0000CC;
+    line-height: 2;
+    margin: 0;
+    font-family: "Courier New", monospace;
+}
+
+div p:nth-child(2) {
+    margin-left: 70px;
+}
